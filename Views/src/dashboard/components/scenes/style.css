@@ -1,0 +1,14 @@
+#main{
+    margin: 0;
+    padding: 70px 10px;
+    transition: all 0.3s;
+    background-color: #f3ecec;
+    height: 100%;
+
+}
+@media (max-width:1199px) {
+    #main {
+        padding: 20px;
+    }
+    
+}
